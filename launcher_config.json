@@ -1,0 +1,46 @@
+{
+  "apps": [
+    {
+      "name": "pdf_splitter",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\pdf_splitter\\pdf_splitter.py",
+      "params_json": "",
+      "params": [],
+      "description": "Découper un PDF en plusieurs documents"
+    },
+    {
+      "name": "fusion_docs",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\fusion_docs\\fusion_docs_v1_00.py",
+      "params_json": "",
+      "params": [],
+      "description": "Fusionner plusieurs documents en un seul"
+    },
+    {
+      "name": "my_subs_downloader",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\my_subs_downloader\\my_subs_downloader.py",
+      "params_json": "",
+      "params": [],
+      "description": "Téléchargeur de sous-titres EN/FR depuis my-subs.co"
+    },
+    {
+      "name": "srt_viewer",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\srt_viewer\\srt_viewer.py",
+      "params_json": "",
+      "params": [],
+      "description": "Visionneuse sous-titres EN/FR côte-à-côte"
+    },
+    {
+      "name": "mes_comptes",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\mes_comptes\\mes_comptes_v3_14.py",
+      "params_json": "",
+      "params": [],
+      "description": "Gestion relevés bancaires SG + ONEY"
+    },
+    {
+      "name": "panini_album",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\panini_album\\main.py",
+      "params_json": "",
+      "params": [],
+      "description": "Gestion album Panini WC2026 — manquants, doubles, export TXT"
+    }
+  ]
+}
