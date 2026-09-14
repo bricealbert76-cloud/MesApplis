@@ -41,6 +41,34 @@
       "params_json": "",
       "params": [],
       "description": "Gestion album Panini WC2026 — manquants, doubles, export TXT"
+    },
+    {
+      "name": "mp3_cutter",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\mp3_cutter\\mp3_cutter.py",
+      "params_json": "",
+      "params": [],
+      "description": "Découper un fichier MP3 en sélectionnant un début et une fin"
+    },
+    {
+      "name": "transcription",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\transcription\\transcription.py",
+      "params_json": "",
+      "params": [],
+      "description": "Transcrire un fichier audio en texte via Whisper (modèle et langue au choix)"
+    },
+    {
+      "name": "instagram_viewer",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\instagram_viewer\\instagram_viewer.py",
+      "params_json": "",
+      "params": [],
+      "description": "Parcourir, classer par thème et télécharger ses posts Instagram sauvegardés"
+    },
+    {
+      "name": "lyrics",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\lyrics\\main.py",
+      "params_json": "",
+      "params": [],
+      "description": "Télécharger les paroles de chansons via l'API Genius"
     }
   ]
 }
