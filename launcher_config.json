@@ -69,6 +69,13 @@
       "params_json": "",
       "params": [],
       "description": "Télécharger les paroles de chansons via l'API Genius"
+    },
+    {
+      "name": "extraction_audio",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\extraction_audio\\main.py",
+      "params_json": "",
+      "params": [],
+      "description": "Extraire la piste audio MP3 depuis une vidéo MP4/MKV/AVI"
     }
   ]
 }
