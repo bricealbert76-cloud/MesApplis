@@ -30,7 +30,7 @@
     },
     {
       "name": "mes_comptes",
-      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\mes_comptes\\mes_comptes_v3_14.py",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\mes_comptes\\mes_comptes_v4_00.py",
       "params_json": "",
       "params": [],
       "description": "Gestion relevés bancaires SG + ONEY"
@@ -76,6 +76,13 @@
       "params_json": "",
       "params": [],
       "description": "Extraire la piste audio MP3 depuis une vidéo MP4/MKV/AVI"
+    },
+    {
+      "name": "bbc_records",
+      "path": "C:\\Users\\brice\\Documents\\03_Programmes\\repos_Git\\bbc_records\\bbc_records.py",
+      "params_json": "",
+      "params": [],
+      "description": "Enregistrer BBC News live Canal+ via OBS et Selenium"
     }
   ]
 }
